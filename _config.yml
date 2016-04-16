@@ -1,0 +1,4 @@
+name: jekyll_gh_pages_on_c9 gh-pages site!
+markdown: redcarpet
+pygments: true
+baseurl: /jekyll_gh_pages_on_c9
