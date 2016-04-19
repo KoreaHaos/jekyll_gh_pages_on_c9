@@ -20,8 +20,8 @@ function run_ajax_open_haos_thingy(folder_location, regex_string) {
     });
 }
 
-var image_folder = "https://koreahaos.github.io/jekyll_gh_pages_on_c9/img/"
-var pages_folder = "https://koreahaos.github.io/jekyll_gh_pages_on_c9/pgs/"
+var image_folder = "img/"
+var pages_folder = "pgs/"
 
 var image_regex = new RegExp(".(jpe?g|png|gif)");
 var pages_regex = new RegExp(".(html)")
